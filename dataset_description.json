@@ -1,8 +1,8 @@
 {
   "Name": "A Light Weight Multi-Distance fNIRS Dataset for Ball-Squeezing Task and Purposeful Motion Artifact Creation Task",
-  "BIDSVersion": "1.7.1",
+  "BIDSVersion": "1.8.0",
   "DatasetType": "raw",
-  "License": "CC0",
+  "License": "CC0-1.0",
   "Authors": [
     "Gao, Yuanyuan",
     "Rogers, De’Ja",
@@ -20,7 +20,8 @@
     "the Institutional Review Board of Boston University (Protocol #4502)"
   ],
   "ReferencesAndLinks": [
-    "https://doi.org/10.1117/1.nph.10.2.025007"
+    "https://doi.org/10.1117/1.nph.10.2.025007",
+    "https://doi.org/10.1117/1.nph.13.s3.s32606"
   ],
   "DatasetDOI": "10.82901/nemar.on007420",
   "BSFNIRSHeader": {
